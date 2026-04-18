@@ -12,7 +12,7 @@ Designed and developed a dynamic sales dashboard to evaluate key business metric
 
 ## 🛠️ Tech Stack
 - **Visualization Tool:** Power BI   
-- **Data Handling:** CSV   
+- **Data Source Format:** CSV  
 
 ---
 
